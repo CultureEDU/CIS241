@@ -1,0 +1,96 @@
+/*STYLE SHEET FOR WILL STRICKLAND'S WEBSITE*/
+
+.banner {
+	background-image: url(../images/edmonds_downtown.jpg);
+	background-repeat: no-repeat;
+	width: 1495px;
+	height: 600px;
+}
+
+.article {
+	text-align: left
+}
+
+body { 
+	margin: 10px;
+	background-image: url('../images/light blue.png');
+}
+
+nav {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 45px;
+	text-decoration: underline;
+	color: #F79256;
+	margin-bottom: 25px;
+	margin-top:25px;
+	font-family: Calibri, Helvetica, Geneva, Swiss, sans-serif;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 30px;
+	color: #000000;
+	margin-bottom: 25px;
+	font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+}
+
+h3 {
+	font-size: 22px;
+	color: #d81159;
+}
+
+h4 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+}
+
+ul {
+	font-size: 16px;
+	text-align: center;
+}
+
+aside {
+	margin-bottom: 100px;
+	text-align: center;
+	float: center;
+	width: 1475px;
+}
+
+footer {
+	margin-top: 175px;
+}
+
+a:link {
+	color: #d81159;
+}
+
+a:visited {
+	color: #8f2d56;
+}
+
+.toolbar li {
+	display:inline;
+	background-color: #7dcfb6;
+	border: 1px solid;
+	padding: .4em;
+}
+
+.toolbar {
+	text-align: center;
+}
